@@ -1,0 +1,104 @@
+@media screen and (max-width: 480px) {
+	
+body {
+	width: 100%;
+	height: 100%; 
+}
+
+
+/****************************************
+FIRST BLOCK
+****************************************/
+.firstcontainer #logo img{
+	height: 50px;
+	width: 70px;
+	float: left;
+}
+
+
+
+#list li a{
+	color: green;
+	font-size: 1.5ex;
+}
+
+
+.postjob h1 {
+	font-size: 2ex;
+}
+
+.postjob p {
+	font-size: 1.3ex;
+}
+
+
+#hire h1 {
+	font-size: 2ex;
+}
+
+
+#hire h3 {
+	font-size: 1.3ex;
+}
+
+
+
+/****************************************
+SECOND BLOCK
+****************************************/
+
+.HIWsImages li {
+	display: block;
+	padding: 2% 0 0 0;
+}	
+
+
+.secondcontainer h2 {
+	font-size: 3ex
+}
+
+.RemoveArrow{
+	display: none;
+}
+
+
+/****************************************
+THIRD BLOCK
+****************************************/
+
+
+.thirdcontainer {
+	font-size: 1ex;
+	text-align: center;
+}
+
+
+.thirdcontainer p {
+	font-size: 3ex;
+} 
+
+/****************************************
+FORTH BLOCK
+****************************************/
+.forthcontainer h2 {
+	font-size: 3ex;
+}
+
+.forthcontainer ul {
+	text-align: center;
+}
+
+
+/********************************
+FOOTER
+********************************/
+
+
+.groundfooter {
+	padding-left: 4%;
+}
+
+.groundfooter ul li {
+	font-size: 1.4ex;
+	padding-left: 2%
+}
